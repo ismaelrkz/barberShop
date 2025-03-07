@@ -1,0 +1,206 @@
+{
+    "professionalSection": [
+        {
+            "profileImage": "uifaces-popular-image-1"
+        },
+        {
+            "profileImage": "uifaces-popular-image-2"
+        },
+        {
+            "profileImage": "uifaces-popular-image-3"
+        },
+        {
+            "profileImage": "uifaces-popular-image-4"
+        },
+        {
+            "profileImage": "uifaces-popular-image-5"
+        },
+        {
+            "profileImage": "uifaces-popular-image-6"
+        }
+    ],
+    "serviceSection": [
+        {
+            "imageService": "img1",
+            "labelService": "Barba Maquina / Navalha",
+            "labelPriceService": 40.00,
+            "labelWaitingService": 30
+        },
+        {
+            "imageService": "img1",
+            "labelService": "Cabelo Acabamento",
+            "labelPriceService": 25.00,
+            "labelWaitingService": 15
+        },
+        {
+            "imageService": "img1",
+            "labelService": "Cabelo Degradê / Normal",
+            "labelPriceService": 50.00,
+            "labelWaitingService": 30
+        },
+        {
+            "imageService": "img1",
+            "labelService": "Cabelo Raspado",
+            "labelPriceService": 35.00,
+            "labelWaitingService": 15
+        },
+        {
+            "imageService": "img1",
+            "labelService": "Cabelo Tesoura",
+            "labelPriceService": 60.00,
+            "labelWaitingService": 45
+        },
+        {
+            "imageService": "img1",
+            "labelService": "Cabelo Infantil",
+            "labelPriceService": 50.00,
+            "labelWaitingService": 30
+        },
+        {
+            "imageService": "img1",
+            "labelService": "Combo - Cabelo Raspado + Barba",
+            "labelPriceService": 65.00,
+            "labelWaitingService": 45
+        },
+        {
+            "imageService": "img1",
+            "labelService": "Combo - Cabelo Degradê / Normal + Barba",
+            "labelPriceService": 80.00,
+            "labelWaitingService": 60
+        },
+        {
+            "imageService": "img1",
+            "labelService": "Combo - Cabelo Tesoura + Barba",
+            "labelPriceService": 90.00,
+            "labelWaitingService": 60
+        },
+        {
+            "imageService": "img1",
+            "labelService": "Combo - Cabelo Acabamento + Barba",
+            "labelPriceService": 55.00,
+            "labelWaitingService": 45
+        }
+    ],
+    "scheduleTimeSection": [
+        {
+            "timeSchedule": "09:00"
+        },
+        {
+            "timeSchedule": "09:15"
+        },
+        {
+            "timeSchedule": "09:30"
+        },
+        {
+            "timeSchedule": "09:45"
+        },
+        {
+            "timeSchedule": "10:00"
+        },
+        {
+            "timeSchedule": "10:15"
+        },
+        {
+            "timeSchedule": "10:30"
+        },
+        {
+            "timeSchedule": "10:45"
+        },
+        {
+            "timeSchedule": "11:00"
+        },
+        {
+            "timeSchedule": "11:15"
+        },
+        {
+            "timeSchedule": "11:30"
+        },
+        {
+            "timeSchedule": "11:45"
+        },
+        {
+            "timeSchedule": "12:00"
+        },
+        {
+            "timeSchedule": "12:15"
+        },
+        {
+            "timeSchedule": "12:30"
+        },
+        {
+            "timeSchedule": "12:45"
+        },
+        {
+            "timeSchedule": "13:00"
+        },
+        {
+            "timeSchedule": "13:15"
+        },
+        {
+            "timeSchedule": "13:30"
+        },
+        {
+            "timeSchedule": "13:45"
+        },
+        {
+            "timeSchedule": "14:00"
+        },
+        {
+            "timeSchedule": "14:15"
+        },
+        {
+            "timeSchedule": "14:30"
+        },
+        {
+            "timeSchedule": "14:45"
+        },
+        {
+            "timeSchedule": "15:00"
+        },
+        {
+            "timeSchedule": "15:15"
+        },
+        {
+            "timeSchedule": "15:30"
+        },
+        {
+            "timeSchedule": "15:45"
+        },
+        {
+            "timeSchedule": "16:00"
+        },
+        {
+            "timeSchedule": "16:15"
+        },
+        {
+            "timeSchedule": "16:30"
+        },
+        {
+            "timeSchedule": "16:45"
+        },
+        {
+            "timeSchedule": "17:00"
+        },
+        {
+            "timeSchedule": "17:15"
+        },
+        {
+            "timeSchedule": "17:30"
+        },
+        {
+            "timeSchedule": "17:45"
+        },
+        {
+            "timeSchedule": "18:00"
+        },
+        {
+            "timeSchedule": "18:15"
+        },
+        {
+            "timeSchedule": "18:30"
+        },
+        {
+            "timeSchedule": "18:45"
+        }
+    ]
+}
